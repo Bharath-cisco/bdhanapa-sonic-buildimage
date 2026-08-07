@@ -104,7 +104,7 @@ libalgorithm-diff-xs-perl==0.04-9
 libalgorithm-merge-perl==0.08-5
 libamd-comgr2==6.0+git20231212.4510c28+dfsg-3+b2
 libamdhip64-5==5.7.1-6+deb13u1
-libaom3==3.12.1-1
+libaom3==3.12.1-1+deb13u1
 libapparmor1==4.1.0-1
 libarchive13t64==3.7.4-4+deb13u1
 libasan8==14.2.0-19
